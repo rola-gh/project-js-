@@ -6,6 +6,7 @@
   Button.style.fontSize = '20px';
   Button.style.width = '15rem';
   Button.style.color = '#250925';
+  Button.style.fontFamily = "Old Antic Bold";
   Button.style.border = '1px solid #CED443';
   container.insertAdjacentElement('beforebegin', Button);
   Button.addEventListener('click' , function () {
